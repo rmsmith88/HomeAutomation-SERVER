@@ -1,5 +1,5 @@
 # HomeAutomation-SERVER
-This contains a home automation server library to provide graphing of energy usage. It works in conjunction with the ZigBee homeautomation iOS app (see my other repo)
+A home automation server library to provide graphing of energy usage. It works in conjunction with my ZigBee home automation iOS app (see my other repo). Uses JQuery and Highcharts
 
 Some examples of this can be found below:
 
