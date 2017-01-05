@@ -1,0 +1,1 @@
+CREATE TABLE deviceTable (kwh NUMERIC, devType NUMERIC, instrOff NUMERIC, id INTEGER PRIMARY KEY, DevName TEXT, pSize NUMERIC, msgType NUMERIC, cmdName NUMERIC, serviceName NUMERIC, zone NUMERIC, instrOn NUMERIC, recNum NUMERIC, imgName TEXT);
